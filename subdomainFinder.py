@@ -1,4 +1,3 @@
-
 import requests
 import sys
 from termcolor import cprint
